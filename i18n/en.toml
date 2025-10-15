@@ -1,0 +1,48 @@
+[home]
+other = "Home"
+
+[recommended_teas]
+other = "Recommended Teas"
+
+[tags]
+other = "Tags"
+
+[available_in]
+other = "Available in other languages"
+
+[read_more]
+other = "Read more"
+
+[category]
+other = "Category"
+
+[categories]
+other = "Categories"
+
+[no_items_in_category]
+other = "No items in this category yet."
+
+[back_to_home]
+other = "Back to Home"
+
+# Category translations
+[white-tea]
+other = "White Tea"
+
+[green-tea]
+other = "Green Tea"
+
+[black-tea]
+other = "Black Tea"
+
+[oolong-tea]
+other = "Oolong"
+
+[sheng-puerh]
+other = "Sheng Pu-erh"
+
+[shu-puerh]
+other = "Shu Pu-erh"
+
+[herbal-tea]
+other = "Herbal Tea"

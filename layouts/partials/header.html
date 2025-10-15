@@ -1,0 +1,116 @@
+<header class="site-header">
+    <div class="container">
+        <div class="header-content">
+            <button class="mobile-menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+                <span class="hamburger-icon">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </span>
+            </button>
+            
+            <a href="{{ .Site.Home.RelPermalink }}" class="logo">
+                <span class="logo-text">Altercha</span>
+            </a>
+            
+            <nav class="main-nav">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="{{ .Site.Home.RelPermalink }}" class="nav-link{{ if .IsHome }} active{{ end }}">
+                            {{ i18n "home" }}
+                        </a>
+                    </li>
+                    {{ range .Site.Taxonomies.categories }}
+                    <li class="nav-item">
+                        <a href="{{ .Page.RelPermalink }}" class="nav-link{{ if eq $.RelPermalink .Page.RelPermalink }} active{{ end }}">
+                            {{ $categoryKey := .Page.Title | lower | replaceRE " " "-" }}
+                            {{ if i18n $categoryKey }}{{ i18n $categoryKey }}{{ else }}{{ .Page.Title }}{{ end }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </nav>
+            
+            <div class="language-switcher">
+                <button class="lang-toggle" aria-label="Select language" aria-expanded="false">
+                    <svg class="lang-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="10"></circle>
+                        <line x1="2" y1="12" x2="22" y2="12"></line>
+                        <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+                    </svg>
+                    <span class="lang-current">{{ .Site.Language.Lang }}</span>
+                    <svg class="lang-arrow" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <polyline points="6 9 12 15 18 9"></polyline>
+                    </svg>
+                </button>
+                <div class="lang-dropdown">
+                    {{ $currentLang := .Site.Language.Lang }}
+                    
+                    <!-- English -->
+                    {{ $enUrl := "" }}
+                    {{ $enExists := false }}
+                    {{ if eq $currentLang "en" }}
+                        {{ $enUrl = .RelPermalink }}
+                        {{ $enExists = true }}
+                    {{ else }}
+                        {{ range .Translations }}
+                            {{ if eq .Language.Lang "en" }}
+                                {{ $enUrl = .RelPermalink }}
+                                {{ $enExists = true }}
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    {{ if $enExists }}
+                    <a href="{{ $enUrl }}" class="lang-option{{ if eq $currentLang "en" }} active{{ end }}">
+                        <span class="lang-code">en</span>
+                        <span class="lang-name">English</span>
+                    </a>
+                    {{ end }}
+                    
+                    <!-- Portuguese -->
+                    {{ $ptUrl := "" }}
+                    {{ $ptExists := false }}
+                    {{ if eq $currentLang "pt" }}
+                        {{ $ptUrl = .RelPermalink }}
+                        {{ $ptExists = true }}
+                    {{ else }}
+                        {{ range .Translations }}
+                            {{ if eq .Language.Lang "pt" }}
+                                {{ $ptUrl = .RelPermalink }}
+                                {{ $ptExists = true }}
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    {{ if $ptExists }}
+                    <a href="{{ $ptUrl }}" class="lang-option{{ if eq $currentLang "pt" }} active{{ end }}">
+                        <span class="lang-code">pt</span>
+                        <span class="lang-name">Português</span>
+                    </a>
+                    {{ end }}
+                    
+                    <!-- Russian -->
+                    {{ $ruUrl := "" }}
+                    {{ $ruExists := false }}
+                    {{ if eq $currentLang "ru" }}
+                        {{ $ruUrl = .RelPermalink }}
+                        {{ $ruExists = true }}
+                    {{ else }}
+                        {{ range .Translations }}
+                            {{ if eq .Language.Lang "ru" }}
+                                {{ $ruUrl = .RelPermalink }}
+                                {{ $ruExists = true }}
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    {{ if $ruExists }}
+                    <a href="{{ $ruUrl }}" class="lang-option{{ if eq $currentLang "ru" }} active{{ end }}">
+                        <span class="lang-code">ru</span>
+                        <span class="lang-name">Русский</span>
+                    </a>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="mobile-menu-overlay"></div>

@@ -1,0 +1,13 @@
+{
+  "name": "altercha",
+  "version": "1.0.0",
+  "description": "Premium Tea Collection Website",
+  "scripts": {
+    "dev": "hugo server -D",
+    "build": "hugo --minify",
+    "clean": "rm -rf public resources"
+  },
+  "keywords": ["hugo", "tea", "static-site"],
+  "author": "",
+  "license": "MIT"
+}

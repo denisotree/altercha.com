@@ -1,0 +1,48 @@
+[home]
+other = "Главная"
+
+[recommended_teas]
+other = "Рекомендуемые чаи"
+
+[tags]
+other = "Теги"
+
+[available_in]
+other = "Доступно на других языках"
+
+[read_more]
+other = "Читать далее"
+
+[category]
+other = "Категория"
+
+[categories]
+other = "Категории"
+
+[no_items_in_category]
+other = "В этой категории пока нет товаров."
+
+[back_to_home]
+other = "На главную"
+
+# Переводы категорий
+[white-tea]
+other = "Белый чай"
+
+[green-tea]
+other = "Зеленый чай"
+
+[black-tea]
+other = "Красный чай"
+
+[oolong-tea]
+other = "Улун"
+
+[sheng-puerh]
+other = "Шен пуэр"
+
+[shu-puerh]
+other = "Шу пуэр"
+
+[herbal-tea]
+other = "Травяной чай"

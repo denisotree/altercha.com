@@ -1,0 +1,48 @@
+[home]
+other = "Início"
+
+[recommended_teas]
+other = "Chás Recomendados"
+
+[tags]
+other = "Tags"
+
+[available_in]
+other = "Disponível em outros idiomas"
+
+[read_more]
+other = "Leia mais"
+
+[category]
+other = "Categoria"
+
+[categories]
+other = "Categorias"
+
+[no_items_in_category]
+other = "Ainda não há itens nesta categoria."
+
+[back_to_home]
+other = "Voltar ao Início"
+
+# Traduções de categorias
+[white-tea]
+other = "Chá Branco"
+
+[green-tea]
+other = "Chá Verde"
+
+[black-tea]
+other = "Chá Preto"
+
+[oolong-tea]
+other = "Oolong"
+
+[sheng-puerh]
+other = "Sheng Pu-erh"
+
+[shu-puerh]
+other = "Shu Pu-erh"
+
+[herbal-tea]
+other = "Chá Herbal"

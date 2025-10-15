@@ -1,0 +1,41 @@
+{{ define "main" }}
+<article class="tea-detail">
+    <div class="container">
+        <header class="tea-header">
+            <h1 class="tea-title">{{ .Title }}</h1>
+            {{ with .Params.categories }}
+            <div class="tea-categories">
+                {{ range . }}
+                {{ $categoryKey := . | lower | replaceRE " " "-" }}
+                <span class="category-badge">{{ if i18n $categoryKey }}{{ i18n $categoryKey }}{{ else }}{{ . }}{{ end }}</span>
+                {{ end }}
+            </div>
+            {{ end }}
+        </header>
+
+        <div class="tea-content-wrapper">
+            {{ with .Resources.GetMatch "*.{jpg,jpeg,png,webp}" }}
+            {{ $image := .Fill "800x800 center" }}
+            <div class="tea-image">
+                <img src="{{ $image.RelPermalink }}" alt="{{ $.Title }}">
+            </div>
+            {{ end }}
+
+            <div class="tea-content">
+                {{ .Content }}
+            </div>
+        </div>
+
+        {{ with .GetTerms "tags" }}
+        <div class="tea-tags">
+            <h3>{{ i18n "tags" }}</h3>
+            <div class="tag-list">
+                {{ range . }}
+                <a href="{{ .RelPermalink }}" class="tag">{{ .LinkTitle }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</article>
+{{ end }}

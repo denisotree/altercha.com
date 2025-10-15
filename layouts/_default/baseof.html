@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ .Site.Params.description }}">
+    <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    {{ $style := resources.Get "scss/main.scss" | css.Sass | resources.Minify }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+</head>
+<body>
+    {{ partial "header.html" . }}
+    
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    
+    {{ partial "footer.html" . }}
+    
+    <script>
+        // Language switcher dropdown
+        document.addEventListener('DOMContentLoaded', function() {
+            const langToggle = document.querySelector('.lang-toggle');
+            const langSwitcher = document.querySelector('.language-switcher');
+            
+            if (langToggle) {
+                langToggle.addEventListener('click', function(e) {
+                    e.stopPropagation();
+                    const isExpanded = this.getAttribute('aria-expanded') === 'true';
+                    this.setAttribute('aria-expanded', !isExpanded);
+                });
+                
+                // Close dropdown when clicking outside
+                document.addEventListener('click', function(e) {
+                    if (!langSwitcher.contains(e.target)) {
+                        langToggle.setAttribute('aria-expanded', 'false');
+                    }
+                });
+                
+                // Close dropdown on ESC key
+                document.addEventListener('keydown', function(e) {
+                    if (e.key === 'Escape') {
+                        langToggle.setAttribute('aria-expanded', 'false');
+                    }
+                });
+            }
+            
+            // Mobile menu toggle
+            const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
+            const mainNav = document.querySelector('.main-nav');
+            const menuOverlay = document.querySelector('.mobile-menu-overlay');
+            
+            if (mobileMenuToggle && mainNav && menuOverlay) {
+                function openMenu() {
+                    mobileMenuToggle.setAttribute('aria-expanded', 'true');
+                    mainNav.classList.add('active');
+                    menuOverlay.classList.add('active');
+                    document.body.classList.add('menu-open');
+                }
+
+                function closeMenu() {
+                    mobileMenuToggle.setAttribute('aria-expanded', 'false');
+                    mainNav.classList.remove('active');
+                    menuOverlay.classList.remove('active');
+                    document.body.classList.remove('menu-open');
+                }
+
+                // Toggle menu on hamburger click
+                mobileMenuToggle.addEventListener('click', function() {
+                    const isExpanded = this.getAttribute('aria-expanded') === 'true';
+                    if (isExpanded) {
+                        closeMenu();
+                    } else {
+                        openMenu();
+                    }
+                });
+
+                // Close menu when clicking overlay
+                menuOverlay.addEventListener('click', closeMenu);
+
+                // Close menu when clicking nav link
+                const navLinks = mainNav.querySelectorAll('.nav-link');
+                navLinks.forEach(link => {
+                    link.addEventListener('click', function() {
+                        if (window.innerWidth <= 768) {
+                            closeMenu();
+                        }
+                    });
+                });
+
+                // Close menu on ESC key
+                document.addEventListener('keydown', function(e) {
+                    if (e.key === 'Escape' && mainNav.classList.contains('active')) {
+                        closeMenu();
+                    }
+                });
+
+                // Reset on window resize
+                window.addEventListener('resize', function() {
+                    if (window.innerWidth > 768) {
+                        closeMenu();
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>

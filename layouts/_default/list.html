@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section class="category-header">
+    <div class="container">
+        <h1 class="category-title">
+            {{ $categoryKey := .Title | lower | replaceRE " " "-" }}
+            {{ if i18n $categoryKey }}{{ i18n $categoryKey }}{{ else }}{{ .Title }}{{ end }}
+        </h1>
+        {{ with .Content }}
+        <div class="category-description">
+            {{ . }}
+        </div>
+        {{ end }}
+    </div>
+</section>
+
+<section class="tea-catalog">
+    <div class="container">
+        {{ partial "tea-list.html" . }}
+    </div>
+</section>
+{{ end }}

@@ -1,0 +1,46 @@
+baseURL = 'https://altercha.com/'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+enableGitInfo = true
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Altercha - Premium Tea Collection'
+    weight = 1
+    
+    [languages.en.params]
+      description = 'Discover our exquisite collection of premium teas from around the world'
+
+  [languages.ru]
+    contentDir = 'content/ru'
+    languageCode = 'ru-RU'
+    languageDirection = 'ltr'
+    languageName = 'Русский'
+    title = 'Altercha - Коллекция премиального чая'
+    weight = 2
+    
+    [languages.ru.params]
+      description = 'Откройте для себя нашу изысканную коллекцию премиального чая со всего мира'
+
+  [languages.pt]
+    contentDir = 'content/pt'
+    languageCode = 'pt-PT'
+    languageDirection = 'ltr'
+    languageName = 'Português'
+    title = 'Altercha - Coleção de Chá Premium'
+    weight = 3
+    
+    [languages.pt.params]
+      description = 'Descubra nossa requintada coleção de chás premium de todo o mundo'
+
+[params]
+  mainSections = ['teas']
