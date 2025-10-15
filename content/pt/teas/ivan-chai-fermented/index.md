@@ -2,15 +2,15 @@
 title: "Ivan Chai - Epilóbio Fermentado (Epilobium angustifolium)"
 date: 2024-02-13
 categories: ["herbal-tea"]
-tags: ["russo", "sem-cafeína", "herbal", "fermentado"]
+tags: ["europeu-oriental", "sem-cafeína", "herbal", "fermentado"]
 recommended: false
 ---
 
-Ivan Chai é um chá herbal tradicional russo feito de epilóbio fermentado (Epilobium angustifolium), também conhecido como fireweed. Esta bebida sem cafeína tem sido consumida na Rússia há séculos e oferece um sabor único e naturalmente doce com numerosos benefícios para a saúde. Não é um chá verdadeiro, mas uma infusão herbal amada.
+Ivan Chai é uma mistura herbal tradicional do Leste Europeu feita de epilóbio fermentado (Epilobium angustifolium), também conhecido como fireweed. Esta bebida sem cafeína tem sido consumida no Leste Europeu há séculos e oferece um sabor único e naturalmente doce com numerosos benefícios para a saúde. Não é um chá verdadeiro, mas uma infusão herbal amada.
 
 ## Origem
 
-Rússia e Europa Oriental. Ivan Chai é feito de epilóbio, uma planta selvagem que cresce abundantemente em prados e clareiras florestais. As folhas são colhidas no verão, depois passam por um processo de fermentação semelhante à produção de chá, que desenvolve a cor escura característica e sabor complexo. Este método tradicional de preparação foi passado através de gerações.
+Europa Oriental. Ivan Chai é feito de epilóbio, uma planta selvagem que cresce abundantemente em prados e clareiras florestais por toda a região. As folhas são colhidas no verão, depois passam por um processo de fermentação semelhante à produção de chá, que desenvolve a cor escura característica e sabor complexo. Este método tradicional de preparação foi passado através de gerações.
 
 ## Perfil de Sabor e Aroma
 

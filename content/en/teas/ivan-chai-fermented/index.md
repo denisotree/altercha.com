@@ -2,15 +2,15 @@
 title: "Ivan Chai - Fermented Fireweed (Epilobium angustifolium)"
 date: 2024-02-13
 categories: ["herbal-tea"]
-tags: ["russian", "caffeine-free", "herbal", "fermented"]
+tags: ["eastern-european", "caffeine-free", "herbal", "fermented"]
 recommended: false
 ---
 
-Ivan Chai is a traditional Russian herbal tea made from fermented fireweed (Epilobium angustifolium), also known as willowherb. This caffeine-free beverage has been consumed in Russia for centuries and offers a unique, naturally sweet flavor with numerous health benefits. Not a true tea, but a beloved herbal infusion.
+Ivan Chai is a traditional Eastern European herbal blend made from fermented fireweed (Epilobium angustifolium), also known as willowherb. This caffeine-free beverage has been consumed across Eastern Europe for centuries and offers a unique, naturally sweet flavor with numerous health benefits. Not a true tea, but a beloved herbal infusion.
 
 ## Origin
 
-Russia and Eastern Europe. Ivan Chai is made from fireweed, a wild plant that grows abundantly in meadows and forest clearings. The leaves are harvested in summer, then undergo a fermentation process similar to tea production, which develops the characteristic dark color and complex flavor. This traditional preparation method has been passed down through generations.
+Eastern Europe. Ivan Chai is made from fireweed, a wild plant that grows abundantly in meadows and forest clearings throughout the region. The leaves are harvested in summer, then undergo a fermentation process similar to tea production, which develops the characteristic dark color and complex flavor. This traditional preparation method has been passed down through generations.
 
 ## Flavor & Aroma Profile
 
