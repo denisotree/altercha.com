@@ -1,5 +1,5 @@
 ---
-title: "GABA Oolong Fujian - Chá com Ácido Gama-Aminobutírico"
+title: "GABA Oolong Fujian - Chá Funcional"
 date: 2024-02-03
 categories: ["oolong-tea"]
 tags: ["gaba", "fujian", "funcional", "calmante"]

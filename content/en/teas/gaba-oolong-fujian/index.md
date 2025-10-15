@@ -1,5 +1,5 @@
 ---
-title: "GABA Oolong Fujian - Gamma-Aminobutyric Acid Tea"
+title: "GABA Oolong Fujian - Functional Tea"
 date: 2024-02-03
 categories: ["oolong-tea"]
 tags: ["gaba", "fujian", "functional", "calming"]
