@@ -14,33 +14,33 @@ enableGitInfo = true
     languageCode = 'en-US'
     languageDirection = 'ltr'
     languageName = 'English'
-    title = 'Altercha - Premium Tea Collection'
+    title = 'Altercha — a tea collection for working with the state of mind and body'
     weight = 1
     
     [languages.en.params]
-      description = 'Discover our exquisite collection of premium teas from around the world'
+      description = 'Small, living, and constantly evolving. Only those teas that truly bring joy and make life better.'
 
   [languages.ru]
     contentDir = 'content/ru'
     languageCode = 'ru-RU'
     languageDirection = 'ltr'
     languageName = 'Русский'
-    title = 'Altercha - Коллекция премиального чая'
+    title = 'Altercha — чайная коллекция для работы с состоянием ума и тела'
     weight = 2
     
     [languages.ru.params]
-      description = 'Откройте для себя нашу изысканную коллекцию премиального чая со всего мира'
+      description = 'Небольшая, живая и постоянно меняющаяся. Только те чаи, что по-настоящему радуют и делают жизнь лучше.'
 
   [languages.pt]
     contentDir = 'content/pt'
     languageCode = 'pt-PT'
     languageDirection = 'ltr'
     languageName = 'Português'
-    title = 'Altercha - Coleção de Chá Premium'
+    title = 'Altercha — uma coleção de chá para trabalhar com o estado da mente e do corpo'
     weight = 3
     
     [languages.pt.params]
-      description = 'Descubra nossa requintada coleção de chás premium de todo o mundo'
+      description = 'Pequena, viva e em constante mudança. Apenas aqueles chás que realmente trazem alegria e tornam a vida melhor.'
 
 [params]
   mainSections = ['teas']

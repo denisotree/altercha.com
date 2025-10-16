@@ -1,6 +1,4 @@
 ---
-title: "Altercha - Coleção de Chá Premium"
-description: "Descubra nossa requintada coleção de chás premium de todo o mundo"
+title: "Altercha — uma coleção de chá para trabalhar com o estado da mente e do corpo"
+description: "Pequena, viva e em constante mudança. Apenas aqueles chás que realmente trazem alegria e tornam a vida melhor."
 ---
-
-Bem-vindo à Altercha, seu destino para chás premium.

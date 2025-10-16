@@ -1,6 +1,4 @@
 ---
-title: "Altercha - Premium Tea Collection"
-description: "Discover our exquisite collection of premium teas from around the world"
+title: "Altercha — a tea collection for working with the state of mind and body"
+description: "Small, living, and constantly evolving. Only those teas that truly bring joy and make life better."
 ---
-
-Welcome to Altercha, your destination for premium teas.
