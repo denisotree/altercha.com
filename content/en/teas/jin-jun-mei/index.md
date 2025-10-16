@@ -1,5 +1,5 @@
 ---
-title: "Jin Jun Mei - Golden Eyebrow Black Tea"
+title: "Jin Jun Mei - Golden Eyebrow"
 date: 2024-01-26
 categories: ["black-tea"]
 tags: ["premium", "sweet", "malty", "wuyi"]

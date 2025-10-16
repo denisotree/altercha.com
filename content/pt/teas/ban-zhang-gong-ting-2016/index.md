@@ -1,11 +1,10 @@
 ---
-title: "Ban Zhang Gong Ting 2016 - Shu Pu-erh Grau Palácio Imperial 357g"
+title: "Ban Zhang Gong Ting 2016 - Pu-erh Shu 357g"
 date: 2024-02-10
 categories: ["shu-puerh"]
 tags: ["yunnan", "gong-ting", "premium", "envelhecido", "ban-zhang"]
 recommended: true
 ---
-
 Ban Zhang Gong Ting 2016 é um shu pu-erh premium "Grau Palácio" (Gong Ting) da prestigiosa região de Ban Zhang. Feito exclusivamente dos melhores botões dourados e pontas, este chá representa o mais alto grau de shu pu-erh com suavidade, doçura e complexidade excepcionais. Os 8 anos de envelhecimento refinaram ainda mais seu caráter já superior.
 
 ## Origem

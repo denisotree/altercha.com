@@ -1,11 +1,10 @@
 ---
-title: "Tie Guan Yin Base - Deusa de Ferro da Misericórdia"
+title: "Tie Guan Yin Base"
 date: 2024-01-29
 categories: ["oolong-tea"]
 tags: ["anxi", "floral", "oxidação-leve", "clássico"]
 recommended: false
 ---
-
 Tie Guan Yin Base é um oolong clássico de Anxi da província de Fujian, representando o tradicional chá Deusa de Ferro da Misericórdia. Este grau base oferece as notas florais e cremosas características do Tie Guan Yin em um nível acessível, perfeito para apreciação diária e introdução a esta famosa variedade de chá.
 
 ## Origem

@@ -1,5 +1,5 @@
 ---
-title: "Gong Mei Long Zhu - Tribute Eyebrow Dragon Pearl"
+title: "Gong Mei Long Zhu - Dragon Pearl"
 date: 2024-01-21
 categories: ["white-tea"]
 tags: ["rolled", "sweet", "floral"]

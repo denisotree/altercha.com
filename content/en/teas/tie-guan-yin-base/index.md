@@ -1,5 +1,5 @@
 ---
-title: "Tie Guan Yin Base - Iron Goddess of Mercy Oolong"
+title: "Tie Guan Yin Base"
 date: 2024-01-29
 categories: ["oolong-tea"]
 tags: ["anxi", "floral", "light-oxidation", "classic"]

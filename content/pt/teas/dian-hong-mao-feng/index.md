@@ -1,11 +1,10 @@
 ---
-title: "Dian Hong Mao Feng - Pico Aveludado de Yunnan"
+title: "Dian Hong Mao Feng - Pico Aveludado"
 date: 2024-01-28
 categories: ["black-tea"]
 tags: ["yunnan", "maltado", "robusto", "clássico"]
 recommended: false
 ---
-
 Dian Hong Mao Feng é um chá preto clássico de Yunnan apresentando uma mistura equilibrada de botões dourados e folhas tenras. "Mao Feng" significa "Pico Aveludado", referindo-se às pontas felpudas visíveis no chá. Este chá oferece a doçura característica de Yunnan com um caráter mais robusto e encorpado do que chás de botões puros.
 
 ## Origem

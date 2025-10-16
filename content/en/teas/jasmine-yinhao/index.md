@@ -1,5 +1,5 @@
 ---
-title: "Jasmine Yinhao - Silver Tip Jasmine Green Tea"
+title: "Jasmine Yinhao - Silver Tip"
 date: 2024-01-25
 categories: ["green-tea"]
 tags: ["jasmine", "floral", "scented", "aromatic"]

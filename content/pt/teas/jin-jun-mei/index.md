@@ -1,5 +1,5 @@
 ---
-title: "Jin Jun Mei - Sobrancelha Dourada Chá Preto"
+title: "Jin Jun Mei - Sobrancelha Dourada"
 date: 2024-01-26
 categories: ["black-tea"]
 tags: ["premium", "doce", "maltado", "wuyi"]

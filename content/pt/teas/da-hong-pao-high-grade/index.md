@@ -1,11 +1,10 @@
 ---
-title: "Da Hong Pao High Grade - Grande Manto Vermelho Premium"
+title: "Da Hong Pao High Grade - Grande Manto Vermelho"
 date: 2024-02-01
 categories: ["oolong-tea"]
 tags: ["wuyi", "chá-de-rocha", "premium", "torrado"]
 recommended: true
 ---
-
 Da Hong Pao High Grade é um Big Red Robe premium das Montanhas Wuyi, representando um dos oolongs de rocha mais lendários da China. Esta versão de alto grau apresenta material foliar superior e torra especializada, mostrando a profundidade total e complexidade do autêntico chá de rocha Wuyi com seu caráter mineral distintivo e sabores em camadas.
 
 ## Origem

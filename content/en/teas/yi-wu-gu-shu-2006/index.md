@@ -1,5 +1,5 @@
 ---
-title: "Yi Wu Gu Shu 2006 - Aged Raw Pu-erh from Ancient Trees 357g"
+title: "Yi Wu Gu Shu 2006 - Raw Pu-erh 357g"
 date: 2024-02-11
 categories: ["sheng-puerh"]
 tags: ["yunnan", "yi-wu", "ancient-tree", "aged", "premium"]

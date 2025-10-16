@@ -1,5 +1,5 @@
 ---
-title: "GABA Oolong Alishan Classic - High Mountain GABA Tea"
+title: "GABA Oolong Alishan Classic"
 date: 2024-02-04
 categories: ["oolong-tea"]
 tags: ["gaba", "taiwan", "alishan", "high-mountain"]

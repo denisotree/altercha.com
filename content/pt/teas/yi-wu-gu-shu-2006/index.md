@@ -1,5 +1,5 @@
 ---
-title: "Yi Wu Gu Shu 2006 - Pu-erh Cru Envelhecido de Árvores Antigas 357g"
+title: "Yi Wu Gu Shu 2006 - Pu-erh Cru 357g"
 date: 2024-02-11
 categories: ["sheng-puerh"]
 tags: ["yunnan", "yi-wu", "árvores-antigas", "envelhecido", "premium"]

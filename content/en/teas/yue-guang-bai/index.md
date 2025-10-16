@@ -1,5 +1,5 @@
 ---
-title: "Yue Guang Bai - Moonlight White Tea"
+title: "Yue Guang Bai - Moonlight White"
 date: 2024-01-23
 categories: ["white-tea"]
 tags: ["yunnan", "fruity", "unique"]

@@ -1,5 +1,5 @@
 ---
-title: "Lao Ban Zhang 2014 - Aged Shu Pu-erh 357g Cake"
+title: "Lao Ban Zhang 2014 - Shu Pu-erh 357g"
 date: 2024-02-09
 categories: ["shu-puerh"]
 tags: ["yunnan", "aged", "premium", "ban-zhang"]

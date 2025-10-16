@@ -1,5 +1,5 @@
 ---
-title: "Bai Hao Yin Zhen - Silver Needle White Tea"
+title: "Bai Hao Yin Zhen - Silver Needle"
 date: 2024-01-22
 categories: ["white-tea"]
 tags: ["premium", "delicate", "sweet"]

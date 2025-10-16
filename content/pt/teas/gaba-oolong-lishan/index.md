@@ -1,5 +1,5 @@
 ---
-title: "GABA Oolong Lishan - Chá GABA Premium de Alta Montanha"
+title: "GABA Oolong Lishan"
 date: 2024-02-06
 categories: ["oolong-tea"]
 tags: ["gaba", "taiwan", "lishan", "premium", "alta-montanha"]

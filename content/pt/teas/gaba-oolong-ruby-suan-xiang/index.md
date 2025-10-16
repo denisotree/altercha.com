@@ -1,5 +1,5 @@
 ---
-title: "GABA Oolong Ruby Suan Xiang - Rubi Aroma Ácido"
+title: "GABA Oolong Ruby Suan Xiang"
 date: 2024-02-05
 categories: ["oolong-tea"]
 tags: ["gaba", "taiwan", "frutado", "único"]

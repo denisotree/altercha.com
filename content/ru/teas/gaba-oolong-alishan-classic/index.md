@@ -1,5 +1,5 @@
 ---
-title: "GABA Улун Алишань Classic - Высокогорный GABA Чай"
+title: "GABA Улун Алишань Classic"
 date: 2024-02-04
 categories: ["oolong-tea"]
 tags: ["габа", "тайвань", "алишань", "высокогорный"]

@@ -1,11 +1,10 @@
 ---
-title: "Longjing High Grade - Poço do Dragão Premium"
+title: "Longjing High Grade - Poço do Dragão"
 date: 2024-01-24
 categories: ["green-tea"]
 tags: ["famoso", "amendoado", "torrado", "premium"]
 recommended: true
 ---
-
 Longjing High Grade é uma seleção premium do chá verde mais celebrado da China da região do Lago Oeste de Hangzhou, província de Zhejiang. Esta versão de alto grau apresenta colheitas do início da primavera com folhas de qualidade excepcional, oferecendo um perfil de sabor mais refinado e complexo do que o Longjing padrão.
 
 ## Origem

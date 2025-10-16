@@ -1,5 +1,5 @@
 ---
-title: "GABA Улун Ruby Suan Xiang - Рубиновый Кислый Аромат"
+title: "GABA Улун Ruby Suan Xiang"
 date: 2024-02-05
 categories: ["oolong-tea"]
 tags: ["габа", "тайвань", "фруктовый", "уникальный"]

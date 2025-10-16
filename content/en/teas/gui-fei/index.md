@@ -1,5 +1,5 @@
 ---
-title: "Gui Fei - Concubine Oolong"
+title: "Gui Fei - Imperial Concubine"
 date: 2024-02-02
 categories: ["oolong-tea"]
 tags: ["taiwan", "honey", "fruity", "unique"]

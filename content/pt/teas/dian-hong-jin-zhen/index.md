@@ -1,11 +1,10 @@
 ---
-title: "Dian Hong Jin Zhen - Agulha Dourada de Yunnan"
+title: "Dian Hong Jin Zhen - Agulha Dourada"
 date: 2024-01-27
 categories: ["black-tea"]
 tags: ["yunnan", "dourado", "maltado", "doce"]
 recommended: true
 ---
-
 Dian Hong Jin Zhen, ou Agulha Dourada de Yunnan, é um chá preto premium feito exclusivamente de botões dourados colhidos na província de Yunnan. Este chá é caracterizado por sua aparência deslumbrante com abundantes pontas douradas e seu sabor naturalmente doce e maltado sem amargor.
 
 ## Origem

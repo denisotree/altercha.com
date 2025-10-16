@@ -1,5 +1,5 @@
 ---
-title: "Da Hong Pao High Grade - Premium Big Red Robe"
+title: "Da Hong Pao High Grade - Big Red Robe"
 date: 2024-02-01
 categories: ["oolong-tea"]
 tags: ["wuyi", "rock-tea", "premium", "roasted"]

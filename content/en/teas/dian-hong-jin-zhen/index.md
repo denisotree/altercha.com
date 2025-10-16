@@ -1,5 +1,5 @@
 ---
-title: "Dian Hong Jin Zhen - Yunnan Golden Needle Black Tea"
+title: "Dian Hong Jin Zhen - Golden Needle"
 date: 2024-01-27
 categories: ["black-tea"]
 tags: ["yunnan", "golden", "malty", "sweet"]

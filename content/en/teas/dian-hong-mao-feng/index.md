@@ -1,5 +1,5 @@
 ---
-title: "Dian Hong Mao Feng - Yunnan Downy Peak Black Tea"
+title: "Dian Hong Mao Feng - Downy Peak"
 date: 2024-01-28
 categories: ["black-tea"]
 tags: ["yunnan", "malty", "robust", "classic"]

@@ -1,5 +1,5 @@
 ---
-title: "Bing Dao Gu Shu 2023 - Fresh Raw Pu-erh from Ancient Trees 357g"
+title: "Bing Dao Gu Shu 2023 - Raw Pu-erh 357g"
 date: 2024-02-12
 categories: ["sheng-puerh"]
 tags: ["yunnan", "bing-dao", "ancient-tree", "fresh", "premium"]

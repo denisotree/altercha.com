@@ -1,5 +1,5 @@
 ---
-title: "Da Hong Pao Hua Xiang - Floral Aroma Big Red Robe"
+title: "Da Hong Pao Hua Xiang - Floral Aroma"
 date: 2024-01-31
 categories: ["oolong-tea"]
 tags: ["wuyi", "rock-tea", "floral", "roasted"]

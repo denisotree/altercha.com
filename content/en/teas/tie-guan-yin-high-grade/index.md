@@ -1,5 +1,5 @@
 ---
-title: "Tie Guan Yin High Grade - Premium Iron Goddess Oolong"
+title: "Tie Guan Yin High Grade - Iron Goddess"
 date: 2024-01-30
 categories: ["oolong-tea"]
 tags: ["anxi", "floral", "premium", "orchid"]

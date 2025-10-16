@@ -1,5 +1,5 @@
 ---
-title: "Ban Zhang Gong Ting 2016 - Imperial Palace Grade Shu Pu-erh 357g"
+title: "Ban Zhang Gong Ting 2016 - Shu Pu-erh 357g"
 date: 2024-02-10
 categories: ["shu-puerh"]
 tags: ["yunnan", "gong-ting", "premium", "aged", "ban-zhang"]

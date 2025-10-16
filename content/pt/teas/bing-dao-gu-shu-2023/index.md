@@ -1,5 +1,5 @@
 ---
-title: "Bing Dao Gu Shu 2023 - Pu-erh Cru Fresco de Árvores Antigas 357g"
+title: "Bing Dao Gu Shu 2023 - Pu-erh Cru 357g"
 date: 2024-02-12
 categories: ["sheng-puerh"]
 tags: ["yunnan", "bing-dao", "árvores-antigas", "fresco", "premium"]

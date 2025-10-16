@@ -1,5 +1,5 @@
 ---
-title: "Longjing High Grade - Dragon Well Premium Green Tea"
+title: "Longjing High Grade - Dragon Well"
 date: 2024-01-24
 categories: ["green-tea"]
 tags: ["famous", "nutty", "pan-fired", "premium"]

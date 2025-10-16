@@ -1,11 +1,10 @@
 ---
-title: "Gong Mei Long Zhu - Pérola do Dragão Tribute Eyebrow"
+title: "Gong Mei Long Zhu - Pérola do Dragão"
 date: 2024-01-21
 categories: ["white-tea"]
 tags: ["enrolado", "doce", "floral"]
 recommended: false
 ---
-
 Gong Mei Long Zhu é um chá branco premium da província de Fujian, China. Enrolado à mão em elegantes formas de pérola, este chá combina folhas tenras e botões prateados, criando uma experiência de bebida delicada e sofisticada.
 
 ## Origem

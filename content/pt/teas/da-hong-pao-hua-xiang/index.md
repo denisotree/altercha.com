@@ -1,5 +1,5 @@
 ---
-title: "Da Hong Pao Hua Xiang - Grande Manto Vermelho Aroma Floral"
+title: "Da Hong Pao Hua Xiang - Aroma Floral"
 date: 2024-01-31
 categories: ["oolong-tea"]
 tags: ["wuyi", "chá-de-rocha", "floral", "torrado"]
