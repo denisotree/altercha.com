@@ -1,4 +1,4 @@
-# Altercha
+# AlterChá
 
 Multilingual tea catalog built with Hugo. Supports EN, RU, PT.
 

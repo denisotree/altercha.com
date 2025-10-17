@@ -2,27 +2,27 @@
 <div class="tea-grid">
     {{ range .Pages }}
     {{ $page := . }}
-    <article class="tea-card">
-        {{ with .Resources.GetMatch "*.{jpg,jpeg,png,webp}" }}
-        {{ $image := .Fill "400x400 center" }}
-        <div class="tea-card-image">
-            <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}" loading="lazy">
-        </div>
-        {{ end }}
-        <div class="tea-card-content">
-            <h3 class="tea-card-title">
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            </h3>
-            {{ with .Params.categories }}
-            <div class="tea-card-category">
-                {{ range . }}
-                {{ $categoryKey := . | lower | replaceRE " " "-" }}
-                <span class="category-badge">{{ if i18n $categoryKey }}{{ i18n $categoryKey }}{{ else }}{{ . }}{{ end }}</span>
-                {{ end }}
+    <a href="{{ .RelPermalink }}" class="tea-card-link">
+        <article class="tea-card">
+            {{ with .Resources.GetMatch "*.{jpg,jpeg,png,webp}" }}
+            {{ $image := .Fill "400x400 center" }}
+            <div class="tea-card-image">
+                <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}" loading="lazy">
             </div>
             {{ end }}
-        </div>
-    </article>
+            <div class="tea-card-content">
+                <h3 class="tea-card-title">{{ .Title }}</h3>
+                {{ with .Params.categories }}
+                <div class="tea-card-category">
+                    {{ range . }}
+                    {{ $categoryKey := . | lower | replaceRE " " "-" }}
+                    <span class="category-badge">{{ if i18n $categoryKey }}{{ i18n $categoryKey }}{{ else }}{{ . }}{{ end }}</span>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+        </article>
+    </a>
     {{ end }}
 </div>
 {{ else }}

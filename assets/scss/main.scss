@@ -444,14 +444,26 @@ a {
 }
 
 // Tea Card
+.tea-card-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease;
+
+    &:hover {
+        transform: translateY(-2px);
+    }
+}
+
 .tea-card {
     background-color: $bg-color;
     border: 1px solid $border-color;
     border-radius: 0;
     overflow: hidden;
     transition: all 0.3s ease;
+    height: 100%;
 
-    &:hover {
+    .tea-card-link:hover & {
         border-color: $primary-color;
         box-shadow: 0 0 0 1px $primary-color;
     }
@@ -478,14 +490,7 @@ a {
         margin-bottom: 0.75rem;
         font-weight: 500;
         letter-spacing: -0.01em;
-
-        a {
-            color: $text-color;
-
-            &:hover {
-                color: $primary-color;
-            }
-        }
+        color: $text-color;
     }
 
     .tea-card-category {
