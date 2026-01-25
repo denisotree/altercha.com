@@ -25,6 +25,9 @@ other = "Ainda não há itens nesta categoria."
 [back_to_home]
 other = "Voltar ao Início"
 
+[sold_out]
+other = "Esgotado"
+
 # Traduções de categorias
 [white-tea]
 other = "Chá Branco"
@@ -46,3 +49,6 @@ other = "Shu Pu-erh"
 
 [herbal-tea]
 other = "Chá Herbal"
+
+[gaba-tea]
+other = "Chá GABA"

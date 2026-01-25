@@ -7,7 +7,8 @@
             <div class="tea-categories">
                 {{ range . }}
                 {{ $categoryKey := . | lower | replaceRE " " "-" }}
-                <span class="category-badge">{{ if i18n $categoryKey }}{{ i18n $categoryKey }}{{ else }}{{ . }}{{ end }}</span>
+                <span class="category-badge">{{ if i18n $categoryKey }}{{ i18n $categoryKey }}{{ else }}{{ . }}{{ end
+                    }}</span>
                 {{ end }}
             </div>
             {{ end }}
@@ -18,6 +19,9 @@
             {{ $image := .Fill "800x800 center" }}
             <div class="tea-image">
                 <img src="{{ $image.RelPermalink }}" alt="{{ $.Title }}">
+                {{ if $.Params.sold_out }}
+                <div class="sold-out-label">{{ i18n "sold_out" }}</div>
+                {{ end }}
             </div>
             {{ end }}
 

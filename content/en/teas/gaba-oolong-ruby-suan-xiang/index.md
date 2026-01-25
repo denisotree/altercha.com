@@ -1,9 +1,10 @@
 ---
 title: "GABA Oolong Ruby Suan Xiang"
 date: 2024-02-05
-categories: ["oolong-tea"]
+categories: ["oolong-tea", "gaba-tea"]
 tags: ["gaba", "taiwan", "fruity", "unique"]
-recommended: true
+recommended: false
+sold_out: true
 ---
 
 GABA Oolong Ruby Suan Xiang is a unique GABA tea with a distinctive "sour aroma" (Suan Xiang) profile. This Taiwanese specialty combines enhanced GABA content with a complex fruity-tart character reminiscent of fermented fruits, creating an intriguing and highly functional tea experience.

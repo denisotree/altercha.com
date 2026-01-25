@@ -1,7 +1,7 @@
 ---
 title: "GABA Улун Фуцзянь"
 date: 2024-02-03
-categories: ["oolong-tea"]
+categories: ["oolong-tea", "gaba-tea"]
 tags: ["габа", "фуцзянь", "функциональный", "успокаивающий"]
 recommended: false
 ---

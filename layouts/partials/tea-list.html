@@ -8,6 +8,9 @@
             {{ $image := .Fill "400x400 center" }}
             <div class="tea-card-image">
                 <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}" loading="lazy">
+                {{ if $page.Params.sold_out }}
+                <div class="sold-out-label">{{ i18n "sold_out" }}</div>
+                {{ end }}
             </div>
             {{ end }}
             <div class="tea-card-content">

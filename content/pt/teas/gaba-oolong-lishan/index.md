@@ -1,9 +1,10 @@
 ---
 title: "GABA Oolong Lishan"
 date: 2024-02-06
-categories: ["oolong-tea"]
+categories: ["oolong-tea", "gaba-tea"]
 tags: ["gaba", "taiwan", "lishan", "premium", "alta-montanha"]
-recommended: true
+recommended: false
+sold_out: true
 ---
 
 GABA Oolong Lishan representa o ápice da produção de chá GABA, combinando folhas da prestigiosa região de Lishan (Montanha da Pera) de Taiwan com processamento GABA aprimorado. Cultivado em elevações extremas de mais de 2000 metros, este chá oferece qualidade excepcional, sabor complexo e máximos benefícios funcionais.

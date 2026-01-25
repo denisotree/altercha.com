@@ -25,6 +25,9 @@ other = "В этой категории пока нет товаров."
 [back_to_home]
 other = "На главную"
 
+[sold_out]
+other = "Продано"
+
 # Переводы категорий
 [white-tea]
 other = "Белый чай"
@@ -46,3 +49,6 @@ other = "Шу пуэр"
 
 [herbal-tea]
 other = "Травяной чай"
+
+[gaba-tea]
+other = "ГАБА Чай"

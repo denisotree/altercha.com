@@ -3,7 +3,8 @@ title: "Bing Dao Gu Shu 2023 - Raw Pu-erh 357g"
 date: 2024-02-12
 categories: ["sheng-puerh"]
 tags: ["yunnan", "bing-dao", "ancient-tree", "fresh", "premium"]
-recommended: true
+recommended: false
+sold_out: true
 ---
 
 Bing Dao Gu Shu 2023 is a premium fresh raw (sheng) pu-erh from ancient tea trees in the prestigious Bing Dao region. Known as one of the finest pu-erh origins, Bing Dao produces tea with exceptional sweetness, floral character, and powerful qi. This 2023 production offers the vibrant energy of young sheng with excellent aging potential.

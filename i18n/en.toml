@@ -25,6 +25,9 @@ other = "No items in this category yet."
 [back_to_home]
 other = "Back to Home"
 
+[sold_out]
+other = "Sold Out"
+
 # Category translations
 [white-tea]
 other = "White Tea"
@@ -46,3 +49,6 @@ other = "Shu Pu-erh"
 
 [herbal-tea]
 other = "Herbal Tea"
+
+[gaba-tea]
+other = "GABA Tea"
