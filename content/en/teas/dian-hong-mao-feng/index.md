@@ -4,7 +4,11 @@ date: 2024-01-28
 categories: ["black-tea"]
 tags: ["yunnan", "malty", "robust", "classic"]
 recommended: false
+price_50g: 8
+price_default_unit: 50g
 ---
+
+
 
 Dian Hong Mao Feng is a classic Yunnan black tea featuring a balanced blend of golden buds and tender leaves. "Mao Feng" means "Downy Peak," referring to the fuzzy tips visible in the tea. This tea offers the characteristic Yunnan sweetness with a more robust, full-bodied character than pure bud teas.
 

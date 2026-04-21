@@ -4,7 +4,12 @@ date: 2024-01-31
 categories: ["oolong-tea"]
 tags: ["wuyi", "rock-tea", "floral", "roasted"]
 recommended: true
+price_50g: 12
+price_25g: 6
+price_default_unit: 25g
 ---
+
+
 
 Da Hong Pao Hua Xiang is a floral-style Big Red Robe from the Wuyi Mountains, one of China's most famous rock oolongs. This version emphasizes the natural floral aromatics while maintaining the characteristic mineral complexity of Wuyi rock teas. The lighter roast allows the tea's inherent floral notes to shine through.
 

@@ -4,7 +4,12 @@ date: 2024-01-31
 categories: ["oolong-tea"]
 tags: ["wuyi", "chá-de-rocha", "floral", "torrado"]
 recommended: true
+price_50g: 12
+price_25g: 6
+price_default_unit: 25g
 ---
+
+
 
 Da Hong Pao Hua Xiang é um Big Red Robe estilo floral das Montanhas Wuyi, um dos oolongs de rocha mais famosos da China. Esta versão enfatiza os aromáticos florais naturais mantendo a complexidade mineral característica dos chás de rocha Wuyi. A torra mais leve permite que as notas florais inerentes do chá brilhem.
 

@@ -4,8 +4,13 @@ date: 2024-02-04
 categories: ["oolong-tea", "gaba-tea"]
 tags: ["gaba", "taiwan", "alishan", "alta-montanha"]
 recommended: false
+price_50g: 14
+price_default_unit: 50g
 sold_out: true
 ---
+
+
+
 
 GABA Oolong Alishan Classic combina a qualidade renomada do oolong de alta montanha Alishan com conteúdo aprimorado de GABA para benefícios funcionais. Cultivado em altas altitudes na famosa região de Alishan de Taiwan, este chá oferece a doçura floral característica dos oolongs de montanha com propriedades calmantes adicionadas.
 

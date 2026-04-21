@@ -4,7 +4,13 @@ date: 2024-01-22
 categories: ["white-tea"]
 tags: ["premium", "delicado", "doce"]
 recommended: true
+price_25g: 8
+price_50g: 16
+price_default_unit: 25g
 ---
+
+
+
 Bai Hao Yin Zhen, conhecido como Agulhas de Prata, é o chá branco mais valorizado da China. Feito exclusivamente de botões não abertos cobertos por finos pelos brancos, este chá representa o ápice da arte do chá branco da província de Fujian.
 
 ## Origem

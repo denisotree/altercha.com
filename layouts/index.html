@@ -10,7 +10,9 @@
     <div class="container">
         <h2 class="catalog-title">{{ i18n "recommended_teas" }}</h2>
         <div class="tea-grid">
-            {{ range where .Site.RegularPages "Params.recommended" true }}
+            {{ $recommended := where .Site.RegularPages "Params.recommended" true }}
+            {{ $available := where $recommended "Params.sold_out" "!=" true }}
+            {{ range $available }}
             {{ if eq .Type "teas" }}
             {{ $page := . }}
             <a href="{{ .RelPermalink }}" class="tea-card-link">

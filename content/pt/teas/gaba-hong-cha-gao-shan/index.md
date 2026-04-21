@@ -4,7 +4,14 @@ date: 2026-01-25
 categories: ["black-tea", "gaba-tea"]
 tags: ["gaba", "cha-preto", "yunnan", "alta-montanha", "wuliangshan"]
 recommended: true
+price_50g: 16
+price_default_unit: 50g
 ---
+
+
+
+
+
 
 GABA Hong Cha Gao Shan é um chá preto experimental de alta montanha que combina o material rico e robusto de Yunnan com tecnologia avançada de processamento GABA. Feito a partir das folhas de árvores de 70 anos nas Terras Altas de Wuliangshan, este chá é ainda melhor do que o planejado — quente, perfumado e extremamente relaxante.
 

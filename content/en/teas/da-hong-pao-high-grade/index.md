@@ -4,7 +4,13 @@ date: 2024-02-01
 categories: ["oolong-tea"]
 tags: ["wuyi", "rock-tea", "premium", "roasted"]
 recommended: true
+price_50g: 16
+price_25g: 8
+price_default_unit: 25g
 ---
+
+
+
 
 Da Hong Pao High Grade is a premium Big Red Robe from the Wuyi Mountains, representing one of China's most legendary rock oolongs. This high-grade version features superior leaf material and expert roasting, showcasing the full depth and complexity of authentic Wuyi rock tea with its distinctive mineral character and layered flavors.
 

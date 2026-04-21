@@ -4,7 +4,12 @@ date: 2024-01-30
 categories: ["oolong-tea"]
 tags: ["anxi", "floral", "premium", "orchid"]
 recommended: true
+price_50g: 12
+price_default_unit: 50g
 ---
+
+
+
 
 Tie Guan Yin High Grade represents the premium selection of Iron Goddess of Mercy oolong from Anxi. Made from tender leaves harvested at optimal times from superior tea gardens, this grade showcases the full complexity and elegance of this legendary tea with pronounced floral character and exceptional smoothness.
 

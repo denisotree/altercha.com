@@ -4,7 +4,13 @@ date: 2024-02-01
 categories: ["oolong-tea"]
 tags: ["wuyi", "chá-de-rocha", "premium", "torrado"]
 recommended: true
+price_50g: 16
+price_25g: 8
+price_default_unit: 25g
 ---
+
+
+
 Da Hong Pao High Grade é um Big Red Robe premium das Montanhas Wuyi, representando um dos oolongs de rocha mais lendários da China. Esta versão de alto grau apresenta material foliar superior e torra especializada, mostrando a profundidade total e complexidade do autêntico chá de rocha Wuyi com seu caráter mineral distintivo e sabores em camadas.
 
 ## Origem

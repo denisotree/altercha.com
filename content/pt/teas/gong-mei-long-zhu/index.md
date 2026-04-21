@@ -4,7 +4,13 @@ date: 2024-01-21
 categories: ["white-tea"]
 tags: ["enrolado", "doce", "floral"]
 recommended: false
+price_default_unit: pc
+price_pc: 1.5
 ---
+
+
+
+
 Gong Mei Long Zhu é um chá branco premium da província de Fujian, China. Enrolado à mão em elegantes formas de pérola, este chá combina folhas tenras e botões prateados, criando uma experiência de bebida delicada e sofisticada.
 
 ## Origem

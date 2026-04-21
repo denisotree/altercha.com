@@ -4,7 +4,14 @@ date: 2026-01-25
 categories: ["sheng-puerh"]
 tags: ["sheng", "ban-zhang", "envelhecido", "yunnan"]
 recommended: true
+price_50g: 10
+price_default_unit: 50g
+price_357g: 35
 ---
+
+
+
+
 
 Ban Zhang Qiao Mu 2016 é um sheng puerh semi-envelhecido bem equilibrado da renomada região montanhosa de Ban Zhang. Conhecido como o "Rei do Pu-erh", o chá de Ban Zhang é famoso por sua energia intensa e transformação complexa de sabor. Esta safra de 2016 oferece uma introdução perfeita ao caráter da região, suavizado pelo tempo.
 

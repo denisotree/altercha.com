@@ -4,8 +4,15 @@ date: 2024-02-12
 categories: ["sheng-puerh"]
 tags: ["yunnan", "bing-dao", "árvores-antigas", "fresco", "premium"]
 recommended: false
+price_50g: 14
+price_357g: 65
+price_default_unit: 50g
 sold_out: true
 ---
+
+
+
+
 
 Bing Dao Gu Shu 2023 é um pu-erh cru (sheng) fresco premium de árvores de chá antigas da prestigiosa região de Bing Dao. Conhecida como uma das melhores origens de pu-erh, Bing Dao produz chá com doçura excepcional, caráter floral e qi poderoso. Esta produção de 2023 oferece a energia vibrante do sheng jovem com excelente potencial de envelhecimento.
 

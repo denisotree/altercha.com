@@ -4,7 +4,14 @@ date: 2026-01-25
 categories: ["sheng-puerh"]
 tags: ["sheng", "ban-zhang", "aged", "yunnan"]
 recommended: true
+price_50g: 10
+price_default_unit: 50g
+price_357g: 35
 ---
+
+
+
+
 
 Ban Zhang Qiao Mu 2016 is a well-balanced semi-aged sheng puerh from the renowned Ban Zhang mountain region. Known as the "King of Puerh," Ban Zhang tea is famous for its intense energy and complex flavor transformation. This 2016 vintage offers a perfect introduction to the region's character, softened by time.
 

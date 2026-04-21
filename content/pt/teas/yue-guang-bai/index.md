@@ -4,7 +4,13 @@ date: 2024-01-23
 categories: ["white-tea"]
 tags: ["yunnan", "frutado", "único"]
 recommended: true
+price_50g: 12
+price_default_unit: 50g
 ---
+
+
+
+
 {{ ... }}
 Yue Guang Bai, ou Luz da Lua Branca, é um chá branco único da província de Yunnan. Ao contrário dos chás brancos tradicionais de Fujian, é feito de plantas de chá de folhas grandes de Yunnan, criando uma aparência distinta com costas escuras e frentes prateadas, lembrando a luz da lua nas folhas.
 

@@ -516,6 +516,19 @@ a {
     .tea-card-category {
         margin: 0;
     }
+
+    .tea-card-price {
+        margin-top: 0.5rem;
+        font-size: 1rem;
+        font-weight: 600;
+        color: $primary-color;
+
+        .price-unit {
+            font-size: 0.75rem;
+            font-weight: 400;
+            color: $secondary-color;
+        }
+    }
 }
 
 // Category Badge
@@ -606,6 +619,40 @@ a {
             display: flex;
             flex-wrap: wrap;
             gap: 0.5rem;
+        }
+
+        .tea-price {
+            margin-top: 1rem;
+
+            .price-label {
+                font-size: 0.875rem;
+                color: $secondary-color;
+                font-weight: 400;
+                display: block;
+                margin-bottom: 0.35rem;
+            }
+
+            .price-options {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 0.5rem;
+            }
+
+            .price-option {
+                font-size: 1.25rem;
+                font-weight: 600;
+                color: $primary-color;
+                letter-spacing: -0.02em;
+                background: rgba($primary-color, 0.06);
+                padding: 0.2rem 0.6rem;
+                border-radius: 4px;
+
+                .price-unit {
+                    font-size: 0.75rem;
+                    font-weight: 400;
+                    color: $secondary-color;
+                }
+            }
         }
     }
 

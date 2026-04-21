@@ -4,7 +4,13 @@ date: 2024-01-26
 categories: ["black-tea"]
 tags: ["premium", "sweet", "malty", "wuyi"]
 recommended: true
+price_50g: 16
+price_25g: 8
+price_default_unit: 25g
 ---
+
+
+
 
 Jin Jun Mei is one of China's most prestigious black teas, created in 2005 in the Wuyi Mountains of Fujian Province. Made exclusively from tender golden buds, this tea represents the pinnacle of Chinese black tea craftsmanship with its complex sweet flavor and remarkable smoothness.
 

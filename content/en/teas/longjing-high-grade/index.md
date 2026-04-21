@@ -4,7 +4,13 @@ date: 2024-01-24
 categories: ["green-tea"]
 tags: ["famous", "nutty", "pan-fired", "premium"]
 recommended: true
+price_50g: 16
+price_25g: 8
+price_default_unit: 25g
 ---
+
+
+
 
 Longjing High Grade is a premium selection of China's most celebrated green tea from the West Lake region of Hangzhou, Zhejiang Province. This high-grade version features early spring pickings with exceptional quality leaves, offering a more refined and complex flavor profile than standard Longjing.
 

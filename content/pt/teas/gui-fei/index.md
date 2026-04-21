@@ -4,7 +4,12 @@ date: 2024-02-02
 categories: ["oolong-tea"]
 tags: ["taiwan", "mel", "frutado", "único"]
 recommended: true
+price_50g: 16
+price_25g: 8
+price_default_unit: 25g
 ---
+
+
 
 Gui Fei, que significa "Concubina" ou "Dama Nobre", é um oolong taiwanês único que desenvolve seu caráter distintivo doce como mel através da interação natural com cigarrinhas do chá (pequenos insetos). Isso cria um perfil complexo e frutado diferente de qualquer outro chá, com doçura natural de mel e sem amargor.
 

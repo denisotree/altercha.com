@@ -4,7 +4,13 @@ date: 2024-01-26
 categories: ["black-tea"]
 tags: ["premium", "doce", "maltado", "wuyi"]
 recommended: true
+price_50g: 16
+price_25g: 8
+price_default_unit: 25g
 ---
+
+
+
 
 Jin Jun Mei é um dos chás pretos mais prestigiados da China, criado em 2005 nas Montanhas Wuyi da província de Fujian. Feito exclusivamente de tenros botões dourados, este chá representa o ápice da arte do chá preto chinês com seu sabor doce complexo e suavidade notável.
 

@@ -4,7 +4,13 @@ date: 2026-01-25
 categories: ["sheng-puerh"]
 tags: ["sheng", "hekai", "yunnan"]
 recommended: true
+price_50g: 8
+price_357g: 50
+price_default_unit: 50g
 ---
+
+
+
 
 Hekai 2020 is a high-quality sheng puerh harvested from big trees in the famous Hekai mountain region. Hekai is often referred to as a "hidden gem" of the Bulang mountains, known for its ancient tea gardens and distinct orchid fragrance.
 

@@ -4,7 +4,12 @@ date: 2024-02-02
 categories: ["oolong-tea"]
 tags: ["taiwan", "honey", "fruity", "unique"]
 recommended: true
+price_50g: 16
+price_25g: 8
+price_default_unit: 25g
 ---
+
+
 
 Gui Fei, meaning "Concubine" or "Noble Lady," is a unique Taiwanese oolong that develops its distinctive honey-sweet character through natural interaction with tea jassids (small insects). This creates a complex, fruity profile unlike any other tea, with natural honey sweetness and no bitterness.
 

@@ -4,7 +4,13 @@ date: 2024-01-25
 categories: ["green-tea"]
 tags: ["jasmim", "floral", "perfumado", "aromático"]
 recommended: true
+price_50g: 6
+price_default_unit: 50g
 ---
+
+
+
+
 Jasmine Yinhao é um chá verde premium perfumado com jasmim, apresentando tenros botões com pontas prateadas da província de Fujian. Este chá passa por perfumação tradicional com flores frescas de jasmim várias vezes, criando um aroma floral inebriante enquanto mantém o caráter delicado do chá verde de alta qualidade.
 
 ## Origem

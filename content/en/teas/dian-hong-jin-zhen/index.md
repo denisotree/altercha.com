@@ -4,7 +4,12 @@ date: 2024-01-27
 categories: ["black-tea"]
 tags: ["yunnan", "golden", "malty", "sweet"]
 recommended: true
+price_50g: 10
+price_default_unit: 50g
 ---
+
+
+
 
 Dian Hong Jin Zhen, or Yunnan Golden Needle, is a premium black tea made exclusively from golden buds harvested in Yunnan Province. This tea is characterized by its stunning appearance with abundant golden tips and its naturally sweet, malty flavor with no bitterness.
 

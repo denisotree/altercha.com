@@ -4,7 +4,14 @@ date: 2024-02-07
 categories: ["shu-puerh"]
 tags: ["yunnan", "terroso", "suave", "envelhecido"]
 recommended: false
+price_100g: 15
+price_default_unit: 50g
+sold_out: true
 ---
+
+
+
+
 
 Tea Gallery Yunnan Melody 2022 é um shu (maduro) pu-erh bem elaborado oferecendo caráter terroso suave com excelente qualidade para consumo diário. Este formato de folhas soltas de 100g o torna acessível e conveniente para apreciação regular de autêntico pu-erh de Yunnan.
 

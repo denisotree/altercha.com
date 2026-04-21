@@ -4,7 +4,11 @@ date: 2024-01-28
 categories: ["black-tea"]
 tags: ["yunnan", "maltado", "robusto", "clássico"]
 recommended: false
+price_50g: 8
+price_default_unit: 50g
 ---
+
+
 Dian Hong Mao Feng é um chá preto clássico de Yunnan apresentando uma mistura equilibrada de botões dourados e folhas tenras. "Mao Feng" significa "Pico Aveludado", referindo-se às pontas felpudas visíveis no chá. Este chá oferece a doçura característica de Yunnan com um caráter mais robusto e encorpado do que chás de botões puros.
 
 ## Origem

@@ -4,7 +4,12 @@ date: 2024-01-30
 categories: ["oolong-tea"]
 tags: ["anxi", "floral", "premium", "orquídea"]
 recommended: true
+price_50g: 12
+price_default_unit: 50g
 ---
+
+
+
 Tie Guan Yin High Grade representa a seleção premium do oolong Deusa de Ferro da Misericórdia de Anxi. Feito de folhas tenras colhidas em momentos ideais de jardins de chá superiores, este grau mostra a complexidade total e elegância deste chá lendário com caráter floral pronunciado e suavidade excepcional.
 
 ## Origem

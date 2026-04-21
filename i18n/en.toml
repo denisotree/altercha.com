@@ -52,3 +52,12 @@ other = "Herbal Tea"
 
 [gaba-tea]
 other = "GABA Tea"
+
+[price_per_50g]
+other = "Price / 50g"
+
+[price_label]
+other = "Price"
+
+[per_pc]
+other = "pc"

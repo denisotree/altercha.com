@@ -4,8 +4,14 @@ date: 2024-02-06
 categories: ["oolong-tea", "gaba-tea"]
 tags: ["gaba", "taiwan", "lishan", "premium", "high-mountain"]
 recommended: false
+price_50g: 16
+price_default_unit: 50g
 sold_out: true
 ---
+
+
+
+
 
 GABA Oolong Lishan represents the pinnacle of GABA tea production, combining leaves from Taiwan's prestigious Lishan (Pear Mountain) region with enhanced GABA processing. Grown at extreme elevations of 2000+ meters, this tea offers exceptional quality, complex flavor, and maximum functional benefits.
 

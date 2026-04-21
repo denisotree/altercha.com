@@ -4,7 +4,11 @@ date: 2024-02-13
 categories: ["herbal-tea"]
 tags: ["eastern-european", "caffeine-free", "herbal", "fermented"]
 recommended: false
+price_50g: 8
+price_default_unit: 50g
 ---
+
+
 
 Ivan Chai is a traditional Eastern European herbal blend made from fermented fireweed (Epilobium angustifolium), also known as willowherb. This caffeine-free beverage has been consumed across Eastern Europe for centuries and offers a unique, naturally sweet flavor with numerous health benefits. Not a true tea, but a beloved herbal infusion.
 

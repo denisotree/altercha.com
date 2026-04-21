@@ -4,7 +4,14 @@ date: 2024-02-09
 categories: ["shu-puerh"]
 tags: ["yunnan", "aged", "premium", "ban-zhang"]
 recommended: true
+price_50g: 14
+price_357g: 80
+price_default_unit: 25g
 ---
+
+
+
+
 
 Lao Ban Zhang 2014 is a premium aged shu pu-erh cake from the legendary Ban Zhang tea region. With nearly a decade of aging, this tea has developed exceptional smoothness, complexity, and depth. The 357g cake format represents traditional pu-erh craftsmanship from one of Yunnan's most prestigious tea areas.
 

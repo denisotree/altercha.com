@@ -4,8 +4,14 @@ date: 2024-02-08
 categories: ["shu-puerh"]
 tags: ["yunnan", "suave", "doce", "fresco"]
 recommended: false
+price_100g: 15
+price_default_unit: 50g
 sold_out: true
 ---
+
+
+
+
 
 Lucky Rabbit 2023 é um shu pu-erh fresco do Ano do Coelho, oferecendo caráter suave e acessível com doçura natural. Este formato de folhas soltas de 100g fornece excelente qualidade para aqueles explorando shu pu-erh ou buscando um chá para consumo diário com benefícios para a saúde.
 

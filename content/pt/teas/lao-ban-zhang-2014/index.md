@@ -4,7 +4,14 @@ date: 2024-02-09
 categories: ["shu-puerh"]
 tags: ["yunnan", "envelhecido", "premium", "ban-zhang"]
 recommended: true
+price_50g: 14
+price_357g: 80
+price_default_unit: 25g
 ---
+
+
+
+
 Lao Ban Zhang 2014 é um bolo de shu pu-erh envelhecido premium da lendária região de chá Ban Zhang. Com quase uma década de envelhecimento, este chá desenvolveu suavidade, complexidade e profundidade excepcionais. O formato de bolo de 357g representa a arte tradicional do pu-erh de uma das áreas de chá mais prestigiadas de Yunnan.
 
 ## Origem

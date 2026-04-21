@@ -4,7 +4,13 @@ date: 2024-01-22
 categories: ["white-tea"]
 tags: ["premium", "delicate", "sweet"]
 recommended: true
+price_25g: 8
+price_50g: 16
+price_default_unit: 25g
 ---
+
+
+
 
 Bai Hao Yin Zhen, known as Silver Needle, is the most prized white tea in China. Made exclusively from unopened buds covered in fine white hairs, this tea represents the pinnacle of white tea craftsmanship from Fujian Province.
 

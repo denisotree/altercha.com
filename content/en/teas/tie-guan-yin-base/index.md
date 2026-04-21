@@ -4,7 +4,13 @@ date: 2024-01-29
 categories: ["oolong-tea"]
 tags: ["anxi", "floral", "light-oxidation", "classic"]
 recommended: false
+price_50g: 6
+price_default_unit: 50g
 ---
+
+
+
+
 
 Tie Guan Yin Base is a classic Anxi oolong from Fujian Province, representing the traditional Iron Goddess of Mercy tea. This base grade offers the characteristic floral and creamy notes of Tie Guan Yin at an accessible level, perfect for daily enjoyment and introduction to this famous tea variety.
 

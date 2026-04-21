@@ -4,7 +4,13 @@ date: 2024-01-21
 categories: ["white-tea"]
 tags: ["rolled", "sweet", "floral"]
 recommended: false
+price_default_unit: pc
+price_pc: 1.5
 ---
+
+
+
+
 
 Gong Mei Long Zhu is a premium white tea from Fujian Province, China. Hand-rolled into elegant pearl shapes, this tea combines tender leaves and silver buds, creating a delicate and sophisticated drinking experience.
 

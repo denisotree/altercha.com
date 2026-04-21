@@ -52,3 +52,12 @@ other = "Травяной чай"
 
 [gaba-tea]
 other = "ГАБА Чай"
+
+[price_per_50g]
+other = "Цена / 50г"
+
+[price_label]
+other = "Цена"
+
+[per_pc]
+other = "pc"

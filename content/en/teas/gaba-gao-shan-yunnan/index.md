@@ -4,7 +4,13 @@ date: 2026-01-25
 categories: ["oolong-tea", "gaba-tea"]
 tags: ["gaba", "yunnan", "wuliangshan", "high-mountain"]
 recommended: true
+price_50g: 16
+price_default_unit: 50g
+sold_out: true
 ---
+
+
+
 
 Gaba Gao Shan Yunnan is a unique high-mountain oolong that bridges the gap between Taiwanese craftsmanship and Yunnan's ancient tea tree heritage. Produced in the Wuliangshan Highlands using leaves from 70-year-old trees, this tea offers a powerful, relaxing experience with a rich, complex flavor profile.
 

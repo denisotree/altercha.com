@@ -4,7 +4,11 @@ date: 2024-02-13
 categories: ["herbal-tea"]
 tags: ["europeu-oriental", "sem-cafeína", "herbal", "fermentado"]
 recommended: false
+price_50g: 8
+price_default_unit: 50g
 ---
+
+
 
 Ivan Chai é uma mistura herbal tradicional do Leste Europeu feita de epilóbio fermentado (Epilobium angustifolium), também conhecido como fireweed. Esta bebida sem cafeína tem sido consumida no Leste Europeu há séculos e oferece um sabor único e naturalmente doce com numerosos benefícios para a saúde. Não é um chá verdadeiro, mas uma infusão herbal amada.
 

@@ -4,7 +4,13 @@ date: 2024-01-23
 categories: ["white-tea"]
 tags: ["yunnan", "fruity", "unique"]
 recommended: true
+price_50g: 12
+price_default_unit: 50g
 ---
+
+
+
+
 
 Yue Guang Bai, or Moonlight White, is a unique white tea from Yunnan Province. Unlike traditional Fujian white teas, it's made from large-leaf Yunnan tea plants, creating a distinctive appearance with dark backs and silvery fronts, resembling moonlight on leaves.
 

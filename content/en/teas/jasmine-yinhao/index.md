@@ -4,7 +4,13 @@ date: 2024-01-25
 categories: ["green-tea"]
 tags: ["jasmine", "floral", "scented", "aromatic"]
 recommended: true
+price_50g: 6
+price_default_unit: 50g
 ---
+
+
+
+
 
 Jasmine Yinhao is a premium jasmine-scented green tea featuring tender silver-tipped buds from Fujian Province. This tea undergoes traditional scenting with fresh jasmine blossoms multiple times, creating an intoxicating floral aroma while maintaining the delicate character of high-quality green tea.
 

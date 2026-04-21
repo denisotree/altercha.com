@@ -12,6 +12,19 @@
                 {{ end }}
             </div>
             {{ end }}
+            {{ if or .Params.price_25g .Params.price_50g .Params.price_pc .Params.price_100g .Params.price_200g .Params.price_357g }}
+            <div class="tea-price">
+                <span class="price-label">{{ i18n "price_label" }}</span>
+                <div class="price-options">
+                    {{ with .Params.price_25g }}<span class="price-option">€{{ . }}<span class="price-unit"> / 25g</span></span>{{ end }}
+                    {{ with .Params.price_50g }}<span class="price-option">€{{ . }}<span class="price-unit"> / 50g</span></span>{{ end }}
+                    {{ with .Params.price_100g }}<span class="price-option">€{{ . }}<span class="price-unit"> / 100g</span></span>{{ end }}
+                    {{ with .Params.price_200g }}<span class="price-option">€{{ . }}<span class="price-unit"> / 200g</span></span>{{ end }}
+                    {{ with .Params.price_357g }}<span class="price-option">€{{ . }}<span class="price-unit"> / 357g cake</span></span>{{ end }}
+                    {{ with .Params.price_pc }}<span class="price-option">€{{ . }}<span class="price-unit"> / {{ i18n "per_pc" }}</span></span>{{ end }}
+                </div>
+            </div>
+            {{ end }}
         </header>
 
         <div class="tea-content-wrapper">

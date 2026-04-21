@@ -4,7 +4,13 @@ date: 2024-02-11
 categories: ["sheng-puerh"]
 tags: ["yunnan", "yi-wu", "árvores-antigas", "envelhecido", "premium"]
 recommended: true
+price_50g: 18
+price_default_unit: 50g
+price_357g: 110
 ---
+
+
+
 
 Yi Wu Gu Shu 2006 é um excepcional pu-erh cru (sheng) envelhecido de árvores de chá antigas da lendária região de Yi Wu. Com mais de 18 anos de envelhecimento natural, este chá se transformou de seu caráter verde original em uma experiência complexa, suave e profundamente satisfatória. O formato de bolo de 357g representa artesanato tradicional de uma das origens mais reverenciadas do pu-erh.
 

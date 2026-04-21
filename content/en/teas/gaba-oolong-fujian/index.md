@@ -4,7 +4,13 @@ date: 2024-02-03
 categories: ["oolong-tea", "gaba-tea"]
 tags: ["gaba", "fujian", "functional", "calming"]
 recommended: false
+price_50g: 12
+price_default_unit: 50g
+sold_out: true
 ---
+
+
+
 
 GABA Oolong Fujian is a functional tea specially processed in an oxygen-free environment to naturally increase its GABA (gamma-aminobutyric acid) content. This Fujian-style GABA oolong combines the traditional character of Chinese oolongs with enhanced calming properties, making it both delicious and beneficial for stress relief.
 

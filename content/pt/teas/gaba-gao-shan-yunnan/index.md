@@ -4,7 +4,13 @@ date: 2026-01-25
 categories: ["oolong-tea", "gaba-tea"]
 tags: ["gaba", "yunnan", "wuliangshan", "alta-montanha"]
 recommended: true
+price_50g: 16
+price_default_unit: 50g
+sold_out: true
 ---
+
+
+
 
 Gaba Gao Shan Yunnan é um oolong de alta montanha único que une o artesanato taiwanês com a herança das antigas árvores de chá de Yunnan. Produzido nas Terras Altas de Wuliangshan usando folhas de árvores de 70 anos, este chá oferece uma experiência poderosa e relaxante com um perfil de sabor rico e complexo.
 

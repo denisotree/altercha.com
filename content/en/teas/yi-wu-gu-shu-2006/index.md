@@ -4,7 +4,13 @@ date: 2024-02-11
 categories: ["sheng-puerh"]
 tags: ["yunnan", "yi-wu", "ancient-tree", "aged", "premium"]
 recommended: true
+price_50g: 18
+price_default_unit: 50g
+price_357g: 110
 ---
+
+
+
 
 Yi Wu Gu Shu 2006 is an exceptional aged raw (sheng) pu-erh from ancient tea trees in the legendary Yi Wu region. With 18+ years of natural aging, this tea has transformed from its original green character into a complex, smooth, and deeply satisfying experience. The 357g cake format represents traditional craftsmanship from one of pu-erh's most revered origins.
 

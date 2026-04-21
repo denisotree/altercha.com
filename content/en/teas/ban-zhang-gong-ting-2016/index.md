@@ -4,7 +4,14 @@ date: 2024-02-10
 categories: ["shu-puerh"]
 tags: ["yunnan", "gong-ting", "premium", "aged", "ban-zhang"]
 recommended: true
+price_50g: 10
+price_357g: 35
+price_default_unit: 50g
 ---
+
+
+
+
 
 Ban Zhang Gong Ting 2016 is a premium "Palace Grade" (Gong Ting) shu pu-erh from the prestigious Ban Zhang region. Made exclusively from the finest golden buds and tips, this tea represents the highest grade of shu pu-erh with exceptional smoothness, sweetness, and complexity. The 8 years of aging have further refined its already superior character.
 
