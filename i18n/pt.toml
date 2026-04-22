@@ -61,3 +61,6 @@ other = "Preço"
 
 [per_pc]
 other = "pc"
+
+[online_price_disclaimer]
+other = "Preço válido apenas para encomendas online. O preço offline pode ser superior."

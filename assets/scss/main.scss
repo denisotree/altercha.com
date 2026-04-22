@@ -528,6 +528,14 @@ a {
             font-weight: 400;
             color: $secondary-color;
         }
+
+        .price-disclaimer {
+            font-size: 0.7rem;
+            font-weight: 400;
+            color: #888;
+            margin-top: 0.25rem;
+            line-height: 1.3;
+        }
     }
 }
 
@@ -636,22 +644,29 @@ a {
                 display: flex;
                 flex-wrap: wrap;
                 gap: 0.5rem;
+
+                .price-option {
+                    font-size: 1.25rem;
+                    font-weight: 600;
+                    color: $primary-color;
+                    letter-spacing: -0.02em;
+                    background: rgba($primary-color, 0.06);
+                    padding: 0.2rem 0.6rem;
+                    border-radius: 4px;
+
+                    .price-unit {
+                        font-size: 0.75rem;
+                        font-weight: 400;
+                        color: $secondary-color;
+                    }
+                }
             }
 
-            .price-option {
-                font-size: 1.25rem;
-                font-weight: 600;
-                color: $primary-color;
-                letter-spacing: -0.02em;
-                background: rgba($primary-color, 0.06);
-                padding: 0.2rem 0.6rem;
-                border-radius: 4px;
-
-                .price-unit {
-                    font-size: 0.75rem;
-                    font-weight: 400;
-                    color: $secondary-color;
-                }
+            .price-disclaimer {
+                font-size: 0.8rem;
+                color: #888;
+                margin-top: 0.5rem;
+                font-weight: 400;
             }
         }
     }

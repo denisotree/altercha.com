@@ -23,6 +23,7 @@
                     {{ with .Params.price_357g }}<span class="price-option">€{{ . }}<span class="price-unit"> / 357g cake</span></span>{{ end }}
                     {{ with .Params.price_pc }}<span class="price-option">€{{ . }}<span class="price-unit"> / {{ i18n "per_pc" }}</span></span>{{ end }}
                 </div>
+                <p class="price-disclaimer">{{ i18n "online_price_disclaimer" }}</p>
             </div>
             {{ end }}
         </header>

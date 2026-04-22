@@ -26,7 +26,10 @@
                 {{ $defUnit := .Params.price_default_unit | default "50g" }}
                 {{ $defPrice := index .Params (print "price_" $defUnit) }}
                 {{ with $defPrice }}
-                <div class="tea-card-price">€{{ . }}<span class="price-unit"> / {{ $defUnit }}</span></div>
+                <div class="tea-card-price">
+                    €{{ . }}<span class="price-unit"> / {{ $defUnit }}</span>
+                    <div class="price-disclaimer">{{ i18n "online_price_disclaimer" }}</div>
+                </div>
                 {{ end }}
             </div>
         </article>
