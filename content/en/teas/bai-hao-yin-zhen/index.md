@@ -7,7 +7,9 @@ recommended: true
 price_25g: 8
 price_50g: 16
 price_default_unit: 25g
+sold_out: true
 ---
+
 
 
 

@@ -6,8 +6,8 @@ tags: ["юньнань", "землистый", "гладкий", "выдержа
 recommended: false
 price_100g: 15
 price_default_unit: 50g
-sold_out: true
 ---
+
 
 
 

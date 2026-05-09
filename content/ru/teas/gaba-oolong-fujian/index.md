@@ -6,8 +6,8 @@ tags: ["габа", "фуцзянь", "функциональный", "успок
 recommended: false
 price_50g: 12
 price_default_unit: 50g
-sold_out: true
 ---
+
 
 
 

@@ -6,8 +6,8 @@ tags: ["gaba", "taiwan", "frutado", "único"]
 recommended: false
 price_50g: 16
 price_default_unit: 50g
-sold_out: true
 ---
+
 
 
 

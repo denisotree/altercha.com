@@ -6,8 +6,8 @@ tags: ["габа", "юньнань", "уляншань", "высокогорны
 recommended: true
 price_50g: 16
 price_default_unit: 50g
-sold_out: true
 ---
+
 
 
 
