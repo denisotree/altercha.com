@@ -6,7 +6,9 @@ tags: ["gaba", "taiwan", "lishan", "premium", "high-mountain"]
 recommended: false
 price_50g: 16
 price_default_unit: 50g
+sold_out: true
 ---
+
 
 
 

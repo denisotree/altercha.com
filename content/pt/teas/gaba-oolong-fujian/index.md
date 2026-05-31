@@ -6,6 +6,7 @@ tags: ["gaba", "fujian", "funcional", "calmante"]
 recommended: false
 price_50g: 12
 price_default_unit: 50g
+sold_out: true
 ---
 
 
