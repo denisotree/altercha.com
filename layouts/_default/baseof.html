@@ -11,7 +11,7 @@
     {{ $style := resources.Get "scss/main.scss" | css.Sass | resources.Minify }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     
-    {{ partial "yandex-metrika.html" . }}
+    {{ partial "google-analytics.html" . }}
 </head>
 <body>
     {{ partial "header.html" . }}
