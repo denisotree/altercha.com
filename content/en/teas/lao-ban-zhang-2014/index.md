@@ -6,8 +6,10 @@ tags: ["yunnan", "aged", "premium", "ban-zhang"]
 recommended: true
 price_50g: 14
 price_357g: 80
-price_default_unit: 25g
+price_default_unit: 50g
+sold_out: true
 ---
+
 
 
 

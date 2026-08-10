@@ -6,8 +6,8 @@ tags: ["yunnan", "yi-wu", "ancient-tree", "aged", "premium"]
 recommended: true
 price_50g: 18
 price_default_unit: 50g
-price_357g: 110
 ---
+
 
 
 

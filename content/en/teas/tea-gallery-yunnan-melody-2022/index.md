@@ -5,8 +5,11 @@ categories: ["shu-puerh"]
 tags: ["yunnan", "earthy", "smooth", "aged"]
 recommended: false
 price_100g: 15
-price_default_unit: 50g
+price_default_unit: 100g
+sold_out: true
 ---
+
+
 
 
 
