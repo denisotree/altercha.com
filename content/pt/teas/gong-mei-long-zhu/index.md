@@ -6,8 +6,8 @@ tags: ["enrolado", "doce", "floral"]
 recommended: false
 price_default_unit: pc
 price_pc: 1.5
-sold_out: true
 ---
+
 
 
 
