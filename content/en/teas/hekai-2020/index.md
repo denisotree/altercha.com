@@ -7,6 +7,7 @@ recommended: true
 price_50g: 8
 price_357g: 50
 price_default_unit: 50g
+sold_out: true
 ---
 
 
