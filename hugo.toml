@@ -11,9 +11,9 @@ enableGitInfo = true
 [languages]
   [languages.en]
     contentDir = 'content/en'
-    languageCode = 'en-US'
-    languageDirection = 'ltr'
-    languageName = 'English'
+    locale = 'en-US'
+    direction = 'ltr'
+    label = 'English'
     title = 'AlterChá — a tea collection for working with the state of mind and body'
     weight = 1
     
@@ -22,9 +22,9 @@ enableGitInfo = true
 
   [languages.ru]
     contentDir = 'content/ru'
-    languageCode = 'ru-RU'
-    languageDirection = 'ltr'
-    languageName = 'Русский'
+    locale = 'ru-RU'
+    direction = 'ltr'
+    label = 'Русский'
     title = 'AlterChá — чайная коллекция для работы с состоянием ума и тела'
     weight = 2
     
@@ -33,9 +33,9 @@ enableGitInfo = true
 
   [languages.pt]
     contentDir = 'content/pt'
-    languageCode = 'pt-PT'
-    languageDirection = 'ltr'
-    languageName = 'Português'
+    locale = 'pt-PT'
+    direction = 'ltr'
+    label = 'Português'
     title = 'AlterChá — uma coleção de chá para trabalhar com o estado da mente e do corpo'
     weight = 3
     
