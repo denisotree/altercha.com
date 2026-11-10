@@ -5,8 +5,8 @@ categories: ["sheng-puerh"]
 tags: ["sheng", "ban-zhang", "envelhecido", "yunnan"]
 recommended: true
 price_50g: 10
+price_357g: 45
 price_default_unit: 50g
-price_357g: 35
 sold_out: true
 ---
 
