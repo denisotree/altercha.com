@@ -6,7 +6,6 @@ tags: ["юньнань", "гладкий", "сладкий", "свежий"]
 recommended: false
 price_100g: 15
 price_default_unit: 100g
-sold_out: true
 ---
 
 
